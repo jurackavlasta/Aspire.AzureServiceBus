@@ -1,0 +1,11 @@
+D:\Programming\Aspire.AzureServiceBus\Aspire.AzureServiceBus.Messages\bin\Debug\net9.0\Aspire.AzureServiceBus.Messages.deps.json
+D:\Programming\Aspire.AzureServiceBus\Aspire.AzureServiceBus.Messages\bin\Debug\net9.0\Aspire.AzureServiceBus.Messages.dll
+D:\Programming\Aspire.AzureServiceBus\Aspire.AzureServiceBus.Messages\bin\Debug\net9.0\Aspire.AzureServiceBus.Messages.pdb
+D:\Programming\Aspire.AzureServiceBus\Aspire.AzureServiceBus.Messages\obj\Debug\net9.0\Aspire.AzureServiceBus.Messages.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Aspire.AzureServiceBus\Aspire.AzureServiceBus.Messages\obj\Debug\net9.0\Aspire.AzureServiceBus.Messages.AssemblyInfoInputs.cache
+D:\Programming\Aspire.AzureServiceBus\Aspire.AzureServiceBus.Messages\obj\Debug\net9.0\Aspire.AzureServiceBus.Messages.AssemblyInfo.cs
+D:\Programming\Aspire.AzureServiceBus\Aspire.AzureServiceBus.Messages\obj\Debug\net9.0\Aspire.AzureServiceBus.Messages.csproj.CoreCompileInputs.cache
+D:\Programming\Aspire.AzureServiceBus\Aspire.AzureServiceBus.Messages\obj\Debug\net9.0\Aspire.AzureServiceBus.Messages.dll
+D:\Programming\Aspire.AzureServiceBus\Aspire.AzureServiceBus.Messages\obj\Debug\net9.0\refint\Aspire.AzureServiceBus.Messages.dll
+D:\Programming\Aspire.AzureServiceBus\Aspire.AzureServiceBus.Messages\obj\Debug\net9.0\Aspire.AzureServiceBus.Messages.pdb
+D:\Programming\Aspire.AzureServiceBus\Aspire.AzureServiceBus.Messages\obj\Debug\net9.0\ref\Aspire.AzureServiceBus.Messages.dll

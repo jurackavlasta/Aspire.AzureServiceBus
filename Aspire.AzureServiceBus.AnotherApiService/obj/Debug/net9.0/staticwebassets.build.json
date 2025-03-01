@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ml5Jeu1pmLh7F20sxaFHSggG99n4qN6MaeadTf4Tf8M=",
+  "Source": "Aspire.AzureServiceBus.AnotherApiService",
+  "BasePath": "_content/Aspire.AzureServiceBus.AnotherApiService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

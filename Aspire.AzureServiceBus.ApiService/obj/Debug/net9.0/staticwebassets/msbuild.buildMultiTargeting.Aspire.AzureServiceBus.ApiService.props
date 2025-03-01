@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Aspire.AzureServiceBus.ApiService.props" />
+</Project>

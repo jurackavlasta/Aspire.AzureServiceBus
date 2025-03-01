@@ -1,0 +1,14 @@
+{
+  "UserConfig": {
+    "Namespaces": [
+      {
+        "Name": "messaging",
+        "Queues": [],
+        "Topics": []
+      }
+    ],
+    "Logging": {
+      "Type": "File"
+    }
+  }
+}

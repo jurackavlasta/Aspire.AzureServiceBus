@@ -1,0 +1,20 @@
+{
+  "UserConfig": {
+    "Namespaces": [
+      {
+        "Name": "messaging",
+        "Queues": [],
+        "Topics": [
+          {
+            "Name": "aspire.azureservicebus.messages/testmessage",
+            "Properties": {},
+            "Subscriptions": []
+          }
+        ]
+      }
+    ],
+    "Logging": {
+      "Type": "File"
+    }
+  }
+}

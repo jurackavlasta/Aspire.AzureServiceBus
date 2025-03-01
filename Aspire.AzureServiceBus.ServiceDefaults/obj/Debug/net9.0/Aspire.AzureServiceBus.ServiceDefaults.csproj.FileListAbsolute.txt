@@ -1,0 +1,12 @@
+D:\Programming\Aspire.AzureServiceBus\Aspire.AzureServiceBus.ServiceDefaults\bin\Debug\net9.0\Aspire.AzureServiceBus.ServiceDefaults.deps.json
+D:\Programming\Aspire.AzureServiceBus\Aspire.AzureServiceBus.ServiceDefaults\bin\Debug\net9.0\Aspire.AzureServiceBus.ServiceDefaults.dll
+D:\Programming\Aspire.AzureServiceBus\Aspire.AzureServiceBus.ServiceDefaults\bin\Debug\net9.0\Aspire.AzureServiceBus.ServiceDefaults.pdb
+D:\Programming\Aspire.AzureServiceBus\Aspire.AzureServiceBus.ServiceDefaults\obj\Debug\net9.0\Aspire.AzureServiceBus.ServiceDefaults.csproj.AssemblyReference.cache
+D:\Programming\Aspire.AzureServiceBus\Aspire.AzureServiceBus.ServiceDefaults\obj\Debug\net9.0\Aspire.AzureServiceBus.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Aspire.AzureServiceBus\Aspire.AzureServiceBus.ServiceDefaults\obj\Debug\net9.0\Aspire.AzureServiceBus.ServiceDefaults.AssemblyInfoInputs.cache
+D:\Programming\Aspire.AzureServiceBus\Aspire.AzureServiceBus.ServiceDefaults\obj\Debug\net9.0\Aspire.AzureServiceBus.ServiceDefaults.AssemblyInfo.cs
+D:\Programming\Aspire.AzureServiceBus\Aspire.AzureServiceBus.ServiceDefaults\obj\Debug\net9.0\Aspire.AzureServiceBus.ServiceDefaults.csproj.CoreCompileInputs.cache
+D:\Programming\Aspire.AzureServiceBus\Aspire.AzureServiceBus.ServiceDefaults\obj\Debug\net9.0\Aspire.AzureServiceBus.ServiceDefaults.dll
+D:\Programming\Aspire.AzureServiceBus\Aspire.AzureServiceBus.ServiceDefaults\obj\Debug\net9.0\refint\Aspire.AzureServiceBus.ServiceDefaults.dll
+D:\Programming\Aspire.AzureServiceBus\Aspire.AzureServiceBus.ServiceDefaults\obj\Debug\net9.0\Aspire.AzureServiceBus.ServiceDefaults.pdb
+D:\Programming\Aspire.AzureServiceBus\Aspire.AzureServiceBus.ServiceDefaults\obj\Debug\net9.0\ref\Aspire.AzureServiceBus.ServiceDefaults.dll
